@@ -1,0 +1,14 @@
+In this folder you can find the code used for Chapter2
+1-Demultiplex_concatenation.sh
+2-Iteration_parameter_selection.sh
+3-Graphs_Iteration_parameters.R
+4-PCA_plots_species.R
+5-PCA_plots_flavicollis.R
+6-Generate_files_for_divergence.sh
+7-Divergence.R
+8-SNP_error_rate.sh
+9.Loci_Allele_error_rate.sh
+10.Allele_error_rate.R
+11-Permutations.sh
+12-Permutations_genetic_diversity_and_Fst_tables.R
+13-Admixture_different_seed.sh
